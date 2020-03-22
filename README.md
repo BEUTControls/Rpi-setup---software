@@ -2,11 +2,13 @@
 # This is to start from scratch to get the Raspberry pi talking.
 
 SD card format software - https://www.sdcard.org/downloads/formatter/eula_windows/index.html
+
 Format the card using SD card format software. Right clicking on SD card and format is just going to cause you problems.
 
 Download Raspian Buster with desktop - https://downloads.raspberrypi.org/raspbian_latest
 
 Start BelenaEtcher software or get Software download to burn image to SD - https://www.balena.io/etcher/
+
 Burn image - open balenaEtcher - select the downloaded Raspian Image - Flash
 
 Create 2 files and add to the SD card
